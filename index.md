@@ -24,8 +24,8 @@ https://www.youtube.com/watch?v=lTdnFqRtYRk&t=1s <br>
 ### 2016 「Δ」 地区大会優勝 全国大会ベスト4 「ロボコン大賞」受賞
 ・出場全チームで唯一「競技時間3分」で「9段」を建てる機能・アイデアが詰まったロボット（他チームは6~7段が時間・機能両面で限界） <br>
 ・時間内でなければ、最大「10段」が可能 <br>
-・回路トラブルにより、ロボットが停止してしまい、準決勝で敗退 <br>
-
+・回路トラブルにより、ロボットが停止してしまい、準決勝で敗退 <br> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZon2v-amdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>　 <br>
 https://www.youtube.com/watch?v=AZon2v-amdA&t=1s <br>
 https://www.youtube.com/watch?time_continue=163&v=-lqfEvXRdB4 <br>
 https://www.youtube.com/watch?v=YIe_nkQ3dNo&t=35s <br>
