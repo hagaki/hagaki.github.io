@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# このページについて
 
-You can use the [editor on GitHub](https://github.com/hagaki/hagaki.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+私の自己紹介用として作成しているものです。
+これまで作ったものを簡単に紹介しています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 自己紹介
 
-### Markdown
+・twitter:@postcard_D　mail:postcard1227□gmail.com
+・高専ロボコンに2013~2017年の5年間フルで参加（担当は主に「リーダー」「機械設計」「操縦者」）
+・
+・visual studio + openCV　で嗜み程度に画像処理をしたことがある。
+・プログラム・情報系にも興味があり、少しづつ勉強している。（そのうち公開します）
+・「毎日、少しづつ。変化しよう」を座右の銘に、日々勉強行っている。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 製作物紹介（いずれは別ページに詳しくまとめる）
+## ものづくり
+（まだ公開できるほどものがない……）
 
-```markdown
-Syntax highlighted code block
+## 高専ロボコン
+### 2015 「射抜け! わぶさめくん」 全国大会エキシビション出場（特別枠）
 
-# Header 1
-## Header 2
-### Header 3
+（画像はれるならはる）
+（動画のリンクも）
+（説明文簡単に）
 
-- Bulleted
-- List
+### 2016 「Δ」 地区大会優勝 全国大会ベスト4 「ロボコン大賞」受賞
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 2017 「驚天動地」 USB WEBカメラの画像処理による自動照準機能を搭載
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### その他
+・2014「でりかん」
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hagaki/hagaki.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 自分用メモ（いずれは別ページに）
+## 2018年9月
+### 9月1週目
+（Google driveのリンクを張る）
