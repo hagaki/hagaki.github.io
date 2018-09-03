@@ -17,14 +17,25 @@
 
 ## 高専ロボコン
 ### 2015 「射抜け! わぶさめくん」 全国大会エキシビション出場（特別枠）
-
-
+・まるで人のように、弓を弾き、矢（輪）を放つ機構が特徴
+・ユニークなアイデアが認められ、当初予定されていなかった、「全国大会のエキシビションマッチ」に招待され、出場した。
+https://www.youtube.com/watch?v=lTdnFqRtYRk&t=1s
 
 ### 2016 「Δ」 地区大会優勝 全国大会ベスト4 「ロボコン大賞」受賞
+・出場全チームで唯一「競技時間3分」で「9段」を建てる機能・アイデアが詰まったロボット（他チームは6~7段が時間・機能両面で限界）
+・時間内でなければ、最大「10段」が可能
+・回路トラブルにより、ロボットが停止してしまい、準決勝で敗退
 
+https://www.youtube.com/watch?v=AZon2v-amdA&t=1s
+https://www.youtube.com/watch?time_continue=163&v=-lqfEvXRdB4
+https://www.youtube.com/watch?v=YIe_nkQ3dNo&t=35s
 
 ### 2017 「驚天動地」 USB WEBカメラの画像処理による自動照準機能を搭載
 
+https://www.youtube.com/watch?v=H0PGt3KGWC8
 
 ### その他
 ・2014「でりかん」
+
+・2014 近畿地区合同ロボコン「なめらかスムゥG」
+https://www.youtube.com/watch?v=M4YkIKK0T0k
