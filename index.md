@@ -14,8 +14,8 @@ This is my self-introduction page. I will introduce what I have produced so far.
 （まだ公開できるほどものがない……）
 
 # NHK-kousen-robocon
-## 2015 「射抜け! わぶさめくん」
--**(inuke!wabusame-kun) National competition participation in exhibition match.（Special frame）** <br>
+## 2015 「射抜け! わぶさめくん」(inuke!wabusame-kun) 
+-**National competition participation in exhibition match.（Special frame）** <br>
 ・まるで人のように、弓を弾き、矢（輪）を放つ機構が特徴 <br>
 ・ユニークなアイデアが認められ、当初予定されていなかった、「全国大会のエキシビションマッチ」に招待され、出場した。 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lTdnFqRtYRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br>
