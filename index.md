@@ -5,7 +5,7 @@ This is my self-introduction page. I will introduce what I have produced so far.
 ## 自己紹介
 
 -twitter:@postcard_D　mail:postcard1227□gmail.com <br>
--NHK-kousen-robocon 2013~2017　(2014:Mechanical designer 2015~2017:Leader & Mechanical designer & Pilot) <br>
+-NHK-kousen-robocon 2013-2017　(2014:Mechanical designer 2015-2017:Leader & Mechanical designer & Pilot) <br>
 -The special field of school is mechanical engineering <br>
 -I'm interested in information system (mainly computer vision) and I'm studying gradually. <br>
 -My motto **"Everyday, changing little by little"**
